@@ -1,0 +1,9 @@
+```bash
+Projet_KNN/
+├── src/
+│   ├── Projet_KNN.py
+└── data/
+    ├── train.csv
+    └── test.csv
+    └── envoi.csv
+```
